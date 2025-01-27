@@ -1,20 +1,24 @@
 <h2 align="center">Hi 👋! My name is Ronit Motivaras</h2>
-<h3 align="center">Engineering Student</h3>
+<h3 align="center">An Engineering Student</h3>
 <br>
 
-- 🎓 Background: **B.Tech ICT**
+- 🎓 Background: **B.Tech in Information and Communication Technology (ICT).**
 
 - 🌐 My Portfolio: **https://ronitmotivaras.github.io/Portfolio**
 
-- 💻 What I Do: **Exploring Software Domain**
+- 💻 What I Do: **Data Structures, Algorithms, and Software Development.**
 
-- 🌱 Learning Goals: **DSA and Software Development**
+- 🌱 Learning Goals: **Artificial Intelligence (AI),Machine Learning (ML), Deep Learning (DL)**
 
 - 📫 How to reach me **ronitmotivaras04@gmail.com**
+
+- 💡 Interests: **Enthusiastic about building impactful projects, problem-solving, and collaborating on innovative ideas.**
 <br>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<a href="www.linkedin.com/in/ronitmotivaras" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
   <a href="https://stackoverflow.com/users/26713791/ronit-motivaras" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
@@ -68,10 +72,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
 </div>
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronitmotivaras&label=Profile%20views&color=0e75b6&style=flat" alt="ronitmotivaras" /> </p>
 
 <br>
 
