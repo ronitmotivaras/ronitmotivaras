@@ -1,22 +1,23 @@
 <h2 align="center">Hi 👋! My name is Ronit Motivaras</h2>
-<h3 align="center">An Engineering Student</h3>
+<h3 align="center">I am an Engineering Student</h3>
 <br>
 
 - 🎓 Background: **B.Tech in Information and Communication Technology (ICT).**
 
-- 🌐 My Portfolio: **https://ronitmotivaras.github.io/Portfolio**
-
 - 💻 What I Do: **Data Structures, Algorithms, and Software Development.**
 
-- 🌱 Learning Goals: **Artificial Intelligence (AI),Machine Learning (ML), Deep Learning (DL)**
+- 🌱 Learning Goals: **Artificial Intelligence (AI)**
+
+- 💡 Interests: **Building impactful projects, problem-solving, and collaborating on innovative ideas.**
 
 - 📫 How to reach me **ronitmotivaras04@gmail.com**
 
-- 💡 Interests: **Enthusiastic about building impactful projects, problem-solving, and collaborating on innovative ideas.**
+- 🌐 My Portfolio: **https://ronitmotivaras.github.io/Portfolio**
+
 <br>
 
 <div align="left">
-<a href="www.linkedin.com/in/ronitmotivaras" target="_blank">
+<a href="https://www.linkedin.com/in/ronitmotivaras/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://stackoverflow.com/users/26713791/ronit-motivaras" target="_blank">
