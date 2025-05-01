@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋! My name is Ronit Motivaras</h2>
-<h3 align="center">I am an Engineering Student</h3>
+<h2 align="center">Hi 👋! I'm Ronit Motivaras</h2>
+<h3 align="center">🧑🏻‍💻 A passionate Programmer</h3>
 <br>
 
 - 🎓 Background: **B.Tech in Information and Communication Technology (ICT).**
@@ -10,17 +10,13 @@
 
 - 💡 Interests: **Building impactful projects and problem-solving.**
 
+- 📫 Reach me ronitmotivaras04@gmail.com
+
 <br>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ronitmotivaras" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@ronitmotivaras" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/26713791/ronit-motivaras" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
 
