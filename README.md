@@ -11,7 +11,7 @@
   💻 What I Do : Data Structures, Algorithms, and Software Development.<br>
   📚 I'm currently learning : Artificial Intelligence (AI).<br>
   💡 Interests : Building impactful projects and problem-solving.<br>
-  🎯 Goals : To Become a Software Developer.<br>
+  🎯 Goal : To Become a Software Developer.<br>
   📫 Reach me : ronitmotivaras04@gmail.com
 </p>
 
@@ -22,49 +22,28 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="35" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="35" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="35" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
+  <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="c logo"  />
+  <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&label=&color=00599C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cplusplus logo"  />
+  <img src="https://img.shields.io/static/v1?message=Java&logo=openjdk&label=&color=ED8B00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="java logo"  />
+  <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="python logo"  />
+  <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html5 logo"  />
+  <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="css3 logo"  />
+  <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
+  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="php logo"  />
+  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo"  />
+  <img src="https://img.shields.io/static/v1?message=Oracle&logo=oracle&label=&color=F80000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="oracle logo"  />
+  <img src="https://img.shields.io/static/v1?message=Flutter&logo=flutter&label=&color=02569B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="flutter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="firebase logo"  />
+  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="react logo"  />
+  <img src="https://img.shields.io/static/v1?message=Node.js&logo=nodedotjs&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodejs logo"  />
+  <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="express logo"  />
+  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mongodb logo"  />
+  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"  />
+  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
+  <img src="https://img.shields.io/static/v1?message=WordPress&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="wordpress logo"  />
+  <img src="https://img.shields.io/static/v1?message=Canva&logo=canva&label=&color=00C4CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="canva logo"  />
+  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="docker logo"  />
 </div>
 
 ###
@@ -80,6 +59,18 @@
   </a>
   <a href="https://medium.com/@ronitmotivaras" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/ronitmotivaras" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+  </a>
+  <a href="https://www.codechef.com/users/ronitm17" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
+  </a>
+  <a href="https://leetcode.com/u/ronit_motivaras" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/ronitmotivaras" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="geeksforgeeks logo"  />
   </a>
 </div>
 
