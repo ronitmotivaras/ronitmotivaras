@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"  />
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo"  />
   <img src="https://img.shields.io/static/v1?message=WordPress&logo=wordpress&label=&color=21759B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="wordpress logo"  />
-  <img src="https://img.shields.io/static/v1?message=Canva&logo=canva&label=&color=00C4CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="canva logo"  />
   <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="docker logo"  />
 </div>
 
@@ -68,9 +67,6 @@
   </a>
   <a href="https://leetcode.com/u/ronit_motivaras" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/ronitmotivaras" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GeeksforGeeks&logo=geeksforgeeks&label=&color=2F8D46&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="geeksforgeeks logo"  />
   </a>
 </div>
 
