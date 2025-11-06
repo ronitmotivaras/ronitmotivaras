@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bootstrap logo"  />
   <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="php logo"  />
   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img src="https://img.shields.io/static/v1?message=Oracle&logo=oracle&label=&color=F80000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="oracle logo"  />
   <img src="https://img.shields.io/static/v1?message=Flutter&logo=flutter&label=&color=02569B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="flutter logo"  />
   <img src="https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="firebase logo"  />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="react logo"  />
