@@ -9,8 +9,8 @@
 
 <p align="left">
   🎓 Background: B.Tech in Information and Communication Technology<br>
-  💻 What I Do: Data Structures & Algorithms<br>
-  📌 Interests: Web Development & System Design<br>
+  💻 What I Do: Data Structures & Algorithms | Web Development<br>
+  <!-- 📌 Interests: Web Development<br> -->
   🚀 Currently Learning: Artificial Intelligence<br>
   🎯 Goal: To Become a Software Developer
   
@@ -30,18 +30,14 @@
   <img src="https://img.shields.io/static/v1?message=HTML5&logo=html5&label=&color=E34F26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="html5 logo"  />
   <img src="https://img.shields.io/static/v1?message=CSS3&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="css3 logo"  />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img src="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bootstrap logo"  />
   <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="php logo"  />
   <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img src="https://img.shields.io/static/v1?message=Flutter&logo=flutter&label=&color=02569B&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="flutter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Firebase&logo=firebase&label=&color=FFCA28&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="firebase logo"  />
   <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="react logo"  />
   <img src="https://img.shields.io/static/v1?message=Node.js&logo=nodedotjs&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="nodejs logo"  />
   <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="express logo"  />
   <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mongodb logo"  />
   <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="git logo"  />
   <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="docker logo"  />
 </div>
 
 ###
@@ -64,9 +60,9 @@
   <a href="https://leetcode.com/u/ronit_motivaras" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
   </a>
-  <a href="https://www.codechef.com/users/ronitm17" target="_blank">
+  <!-- <a href="https://www.codechef.com/users/ronitm17" target="_blank">
     <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
-  </a>
+  </a> -->
 </div>
 
 ###
